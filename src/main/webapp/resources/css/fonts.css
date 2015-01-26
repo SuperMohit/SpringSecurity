@@ -1,0 +1,36 @@
+/*====================HelveticaNeue-Bold====================*/
+@font-face {
+				font-family: 'HelveticaNeue-Bold';
+				src: url('../fonts/helveticaneuebold.eot');
+				src: url('../fonts/helveticaneueboldd41d.eot?#iefix') format('embedded-opentype'),
+						 url('../fonts/helveticaneuebold.woff') format('woff'),
+						 url('../fonts/helveticaneuebold.ttf') format('truetype'),
+						 url('../fonts/helveticaneuebold.svg#helveticaneuebold') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}
+		
+
+
+
+
+/*====================Stagsans Light====================*/
+@font-face {
+				font-family: 'StagSans-Light';
+				src: url('../fonts/stagsanslight.eot');
+				src: url('../fonts/stagsanslightd41d.eot?#iefix') format('embedded-opentype'),
+						 url('../fonts/stagsanslight.woff') format('woff'),
+						 url('../fonts/stagsanslight.ttf') format('truetype'),
+						 url('../fonts/stagsanslight.svg#stagsanslight') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}	
+		
+		
+		
+		
+		
+		
+		
+		
+		

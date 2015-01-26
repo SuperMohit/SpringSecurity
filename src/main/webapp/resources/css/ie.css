@@ -1,0 +1,132 @@
+
+/*.ie10 .cont_bottom {
+    display: block;
+    margin-bottom: 6vh;
+    margin-top: 13vh;
+    width: 100%;
+}
+.ie10 .main_heading {
+    background-color: white;
+    margin: -58% auto 0;
+    opacity: 0.7;
+    padding-top: 3%;
+    width: 50vw;
+}
+.ie10 .main_heading h2 {
+    color: grey;
+    font-family: 'StagSans-Light';
+    font-size: 3.2vw;
+    text-align: center;
+}
+.ie10 .bottom_R h5 {
+    color: #202020;
+    font-size: 1.75vw;
+    font-weight: bold;
+    margin: 0;
+}
+.ie10 .bottom_R p {
+    color: grey;
+    font-size: 1.25vw;
+    line-height: 3vw;
+    margin: 0;
+}
+.ie10 .category ul li a, .ie10.main_heading input[type="submit"],.ie10 .main_heading a {
+    background-color: #d8d8d8;
+    border: 1px solid #d3d3d3;
+    border-radius: 3px;
+    color: #404040;
+    display: block;
+    float: left;
+    font-size: 1.5vw;
+    padding: 0.5vw;
+}
+.ie10 .desc_boxx {
+    bottom: -1.5vh;
+    font-size: 2.2vw;
+    left: 2.5vw;
+    position: relative;
+    width: 37.7vw;
+    top: -3vh;
+}*/
+.referralthanks input[type="text"] {
+    margin-left: 6vw;
+    margin-right: -1vw;
+    margin-top: 5vw;
+    width: 56vw;
+}
+.referralthanks input[type="submit"] {
+    right: 3vw;
+    top: 19.8vw;
+}
+.ie10 .referralthanks h3.invite {
+    font-size: 2.5vw;
+}
+/*.ie10 .main_heading input[type="submit"], .ie10.main_heading a {
+    background-color: #993399;
+    border-color: #ffffff;
+    border-radius: 0;
+    color: #ffffff;
+    float: none;
+    font-size: 1.5vw;
+    height: 46px;
+    margin: 0;
+    position: absolute;
+    width: 110px;
+}
+.ie10 .main_heading a {
+    display: block;
+    height: 3.2vh;
+    left: 33vw;
+    margin-top: 2.9vh;
+    padding-top: 1.5vh;
+    position: absolute;
+    text-align: center;
+    width: 6vw;
+}
+.ie10 .main_heading a#tryus {
+    color: grey;
+    left: 40.5vw;
+}
+.ie10 .main_heading a#tryus:hover{
+    color: white;
+    left: 40.5vw;
+}
+.ie10 .main_heading input[type="text"] {
+    font-size: 1.5vw;
+    height: 5.2vh;
+    margin-left: 2.5vw;
+    margin-top: 3vh;
+    width: 30vw;
+}
+.ie10 .main_heading form {
+    font-size: 1.6vw;
+    position: relative;
+}
+.ie10 .main_heading .desc_box {
+    bottom: -2.5vw;
+    font-size: 2.2vw;
+    margin-left: 10vw;
+    padding-bottom: 2.5vw;
+    position: relative;
+    width: 39vw;
+}
+.ie10 .main_heading .error_box {
+    color: #ff0000;     
+    font-size: 1.2vw; 
+   margin-left:15vw;
+}
+
+.ie10 .main_heading h4 {
+    color: #525252;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 1.3vw;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 1.25;
+}
+.ie10 .item {
+    float: left;
+    overflow: hidden;
+    position: relative;
+    width: 10.9vw;
+}*/
